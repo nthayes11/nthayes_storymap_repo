@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://mdgaines.github.io/leaflet_storymap_2023/
+- HTTPS Link: https://github.com/nthayes11/nthayes_storymap_repo.git
 - Google Sheets template https://docs.google.com/spreadsheets/d/1-UE9s5xWble2rJmw-B86TtEGK2axyLQrLvXSB0eIU9Q/edit#gid=252186071
 
 ## Create Your Own
