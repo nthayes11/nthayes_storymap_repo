@@ -6,7 +6,7 @@ Storymap Logo,media/ncsu_logo.jpg,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,
 Basemap Tiles,CartoDB.Positron,[Drop-down menu for background basemap tiles](https://leaflet-extras.github.io/leaflet-providers/preview/)
-Zoom Controls,bottomleft,
+Zoom Controls,bottomright,
 Narrative Background Color,lightgray,
 Narrative Text Color,,
 Narrative Link Color,,
