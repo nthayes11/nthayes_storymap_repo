@@ -1,13 +1,13 @@
 Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in [HandsOnDataViz.org](https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html)"
-Storymap Title,"A Glance at Raleigh Parks Compared to Demography and Income Distribution in Raliegh, NC",
+Storymap Title,"A Glance at Raleigh Parks Compared to Demography and Income Distribution in Raleigh, NC",
 Storymap Subtitle,StoryMap by Nathan Hayes,"Add your subtitle, or delete that portion"
-Storymap Logo,./media/RaleighParks.png,Path to a logo image
+Storymap Logo,,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,
 Basemap Tiles,CartoDB.Positron,[Drop-down menu for background basemap tiles](https://leaflet-extras.github.io/leaflet-providers/preview/)
 Zoom Controls,bottomright,
-Narrative Background Color,#fc9003,
+Narrative Background Color,light gray,
 Narrative Text Color,,
 Narrative Link Color,,
 Active Chapter Background Color,,
