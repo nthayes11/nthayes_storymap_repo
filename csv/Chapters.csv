@@ -33,7 +33,7 @@
 11,Raleigh Demographics and Income Distribution Compared to Park Count and Density,./media/demo_income_park_count_and_density.png,,,"This figure displays 2020 Raleigh demographics, 2021 Raleigh Income, park count per census tract, and park density calculated by park count of census tract/area of census tract. These plots allow better visualization of patterns and relationships between demographics, income, and park locations in Raleigh. The highest count and density of parks is located in downtown Raleigh. One apparent pattern is a high count and density of parks in south central Raleigh, which is in close proximity to areas of high income high white populations.",12.0,Hidden,,"Raleigh, NC",35.7796,-78.6382,,,,
 12,Raleigh Park Quality Compared to Raleigh Demographics and Income Distribution,./media/incomeanddemoquality.png,,,This figure displays Raleigh Parks with a quality attribute overlaid on 2020 Raleigh demographic data and 2021 Raleigh Income data.,12.0,,,"Raleigh, NC",35.7796,-78.6382,,,,
 13,Table of Top 5 Census Tracts for Black or African American and White Populations,./media/Tables.png,,,"These two tables display the top five census tracts with the highest Black or African American and White populations in Raleigh, NC.",12.0,,,"Raleigh, NC",35.7796,-78.6382,,,,
-14,Where are most of Raleigh's Parks?,./media/imagery.png,,,"The highest concentration of parks are in and around downtown Raleigh. According to the Downtown Parks Conservancy, parks provide numerous benefits for urban centers such as higher property value, aesthetics, recreational opportunities, and attract homebuyers and workers. Downtown parks are easily accessible to a wide variety of users and it is a common occurrence for city centers to have several and diverse parks from museums to green spaces.",13.0,Downtown Raleigh,Blue,"Raleigh, NC",35.7761815,-78.6393516,,,,
+14,Where are most of Raleigh's Parks?,./media/imagery.png,,,"The highest concentration of parks are in and around downtown Raleigh. According to the Downtown Parks Conservancy, parks provide numerous benefits for urban centers such as higher property value, aesthetics, recreational opportunities, and attract homebuyers and workers. Downtown parks are easily accessible to a wide variety of users and it is a common occurrence for city centers to have several and diverse parks from museums to green spaces.",13.0,Downtown Raleigh,Blue,"Raleigh, NC",35.7761815,-78.6393516,,,./geojson/quality_of_parks_geojson.geojson,fillColor:green;color:black
 15,Why is my Project Important?,./media/parkdiversity.png,Pixabay,https://pixabay.com/vectors/park-city-park-people-walk-stroll-7153125/,"<div style=""text-align: left;"">
     <ul>
         <li>According to Larson & Hipp (2022), parks and green spaces 
@@ -47,7 +47,7 @@
 
         <li>Park use should represent the community as a whole</li>
     </ul>
-</div>",12.0,Hidden,,"Raleigh, NC",35.7796,-78.6382,,,,
+</div>",12.0,Hidden,,"Raleigh, NC",35.7796,-78.6382,,,./geojson/quality_of_parks_geojson.geojson,fillColor:green;color:black
 16,Project Limitations and Future Directions,,,,"<div style=""text-align: left;"">
     <ul>
         <li><b>Limitations</b>
@@ -74,4 +74,4 @@
             </ul>
         </li>
     </ul>
-</div>",12.0,Hidden,,"Raleigh, NC",35.7796,-78.6382,,,,
+</div>",12.0,Hidden,,"Raleigh, NC",35.7796,-78.6382,,,./geojson/quality_of_parks_geojson.geojson,fillColor:green;color:black
